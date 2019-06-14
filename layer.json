@@ -1,7 +1,7 @@
 {
     "layer1": {
-        "size_in": "5",
-        "size_out": "4",
+        "size_in": 5,
+        "size_out": 4,
         "weights": {
             "1": {
                 "1": "0.5",
@@ -31,8 +31,8 @@
         }
     },
     "layer2": {
-        "size_in": "4",
-        "size_out": "2",
+        "size_in": 4,
+        "size_out": 2,
         "weights": {
             "1": {
                 "1": "0.5",
